@@ -7,6 +7,8 @@ Problema:
 Reproduza um sistema front-end que exiba em tempo real, de forma organizada e agradável, preços de ações recebidas através de uma conexão websocket. É preciso exibir pelo menos as 5 ações mais valorizadas e as 5 menos valorizadas em cards contendo o símbolo da ação, o preço atual e um gráfico que ilustre a evolução do preço. As cotações devem ser recebidas a partir do nosso simulador de cotações que pode ser acessado usando docker com poucos comandos.
 
 Layout: 
+![image](https://github.com/IdealNet-Fibra/desafio-idealnet-front/assets/145493640/3ae4cd16-2971-4d01-8ee3-d507e95d0ce6)
+![image](https://github.com/IdealNet-Fibra/desafio-idealnet-front/assets/145493640/41f0ac4a-b618-4a54-a22b-7f3721071817)
 
 Requisitos:
 
