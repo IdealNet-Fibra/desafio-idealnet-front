@@ -20,9 +20,7 @@ Requisitos:
 - Testes automatizados
 - README com instruções de como instalar as dependências do projeto, de como rodar a aplicação e como rodar os testes automatizados
 - Deve ser desenvolvido em Javascript com ou sem Typescript
-- Bônus
 - Sistema executável através do docker-compose
-- Usar o CI/CD da plataforma onde hospedar o código
 
 Critérios de Avaliação:
 
